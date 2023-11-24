@@ -1,0 +1,9 @@
+# pip install -r requirements.txt
+
+pandas
+warnings
+tensorflow
+scikit-learn
+imbalanced-learn
+joblib
+nltk
